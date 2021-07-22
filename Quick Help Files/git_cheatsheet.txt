@@ -51,3 +51,6 @@ git status
 
 Resolve Merge Conflicts Visually
 git mergetool
+
+Delete a remote branch locally
+git push origin --delete feature1
