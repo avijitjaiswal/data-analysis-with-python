@@ -42,7 +42,7 @@ Merge Your Branch Back Into Your Master Branch
 git merge
 
 # Or while checked into your master branch
-git merge BranchName
+git merge branchname
 
 Delete Old Branch After You've Merged It To Master
 # After You've Merged Your Branch Back Into Your Master Branch
